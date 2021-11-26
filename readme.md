@@ -7,3 +7,31 @@ illegal activity is on you! I do not take any form of responsibility on how you 
 # special information for incognito.py
 
 incognito.py requires incognito_src.py in the same folder to fully work!
+
+
+# Tool description
+
+## Incognito.py
+An program that allows you to visit website with
+A set of security measures in place. 
+- User Agent Modification
+- Random Cookie
+- Page code scraper
+- Custom IP adress (proxy)
+
+This tool requires a folder in the same directory called
+"logs" in order to save said scraped code.
+This code also required incognito_src.py in the same directory to work.
+
+
+
+## incognito_src.py
+Contains the main script that runs when using incognito.py
+
+
+## Port scanner
+This tool requires a given host (this can be global or local IP addresses.
+It will scan for any open port(s) between the range 1 > 1025.
+
+## Network_kicker
+This tool sends packets with random amounts of bytes to the host causing them 
