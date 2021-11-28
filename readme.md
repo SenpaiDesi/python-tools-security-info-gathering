@@ -37,6 +37,9 @@ It will scan for any open port(s) between the range 1 > 1025.
 This tool sends packets with random amounts of bytes to the host causing them 
 
 
-# Password cracker
+## Password cracker
 It requires a hashed password and of course a pass word list.
 It will use the common crypt() library to compare hashes and show the one matched.
+
+# More to come SOON™
+
