@@ -41,5 +41,11 @@ This tool sends packets with random amounts of bytes to the host causing them
 It requires a hashed password and of course a pass word list.
 It will use the common crypt() library to compare hashes and show the one matched.
 
+## IPTRACKER.py
+Finds information like postal code, region, city, timezone, dma code, longtitude, latitude. Note that it might be inacurrate 
+
+# IPTRACKER INFO
+Requires geo.dat
+
 # More to come SOON™
 
