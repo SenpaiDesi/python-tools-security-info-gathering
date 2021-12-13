@@ -54,7 +54,7 @@ Logs keys on the machine and outputs them into an file. Requires pynput
 Attempts to crack a password protected zip file
 
 ## DDOS tool
-An EDUCATIONAL ONLY tool for distributed Denial Of Service attacks. AGAIN I AM NOT RESPONSIBLE FOR ANY OF YOUR ACTIONS. I take no liability whatsoever
+An EDUCATIONAL ONLY tool for Distributed Denial Of Service attacks. AGAIN I AM NOT RESPONSIBLE FOR ANY OF YOUR ACTIONS. I take no liability whatsoever
 
 # More to come SOON™
 
