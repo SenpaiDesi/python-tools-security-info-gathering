@@ -47,5 +47,14 @@ Finds information like postal code, region, city, timezone, dma code, longtitude
 # IPTRACKER INFO
 Requires geo.dat
 
+## Key logger
+Logs keys on the machine and outputs them into an file. Requires pynput
+
+## zip-cracker.py
+Attempts to crack a password protected zip file
+
+## DDOS tool
+An EDUCATIONAL ONLY tool for distributed Denial Of Service attacks. AGAIN I AM NOT RESPONSIBLE FOR ANY OF YOUR ACTIONS. I take no liability whatsoever
+
 # More to come SOON™
 
